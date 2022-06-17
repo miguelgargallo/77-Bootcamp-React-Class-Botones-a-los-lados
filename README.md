@@ -1,2 +1,2 @@
-# 77-Bootcamp-React-Class-Botones-a-los-lados
+# ejercicio_clase_contador_mejorado_bootcamp
 Created with CodeSandbox
